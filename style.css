@@ -1,0 +1,36 @@
+.container-head{
+    display: flex;
+    
+}
+
+.result-scroll{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-races{
+    border: 2px solid black;
+    
+    
+}
+
+.service{
+    padding-left: 90px;
+}
+
+.race-all{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.information{
+    border: 2px solid black;
+    padding: 70px;
+}
